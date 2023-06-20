@@ -11,3 +11,7 @@ Este proyecto consiste en una calculadora funcional implementada utilizando HTML
 
 - **Responsividad**: La calculadora se adapta y se visualiza correctamente en diferentes tamaños de pantalla, lo que garantiza una experiencia de usuario óptima tanto en dispositivos de escritorio como en dispositivos móviles.
 - ![image](https://github.com/KevinDiazz/Calculadora/blob/master/Captura%20de%20pantalla%202023-06-01%20231755.png)
+
+
+https://github.com/KevinDiazz/Calculadora/assets/111369033/754fab8f-a43d-4cd6-b670-59fe53a56dfb
+
